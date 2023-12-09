@@ -90,8 +90,8 @@ if source_radio == settings.IMAGE:
                     # st.write(ex)
                     st.write("No image is uploaded yet!")
 
-elif source_radio == settings.VIDEO:
-    helper.play_stored_video(confidence, model)
+# elif source_radio == settings.VIDEO:
+#     helper.play_stored_video(confidence, model)
 
 else:
     st.error("Please select a valid source type!")

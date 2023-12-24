@@ -1,2 +1,2 @@
 # Fire_Detection
- Fire and smoke detection using yolov8
+ Fire detection using yolov8
